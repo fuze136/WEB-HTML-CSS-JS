@@ -8,4 +8,7 @@ There is no problem using the local web and edit it.
 
 Web download: https://link-center.net/232053/download
 
+if you don't know how download the wen from Linkvertirse, please watch this video
+YouTube Video: https://youtu.be/dxgSh_3u8yc
+
 by fuze136
