@@ -1,4 +1,4 @@
-# WEB-HRML-CSS-JS
+# WEB-HTML-CSS-JS
 I created a web, the web was made with HTML, CSS &amp; JS (JavaScript)
 
 
